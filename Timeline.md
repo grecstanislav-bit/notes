@@ -1,7 +1,6 @@
 10.9.2025 - Přihlášení na tříměsíční  kurz Testing akademie od Engeto
 
 15.9.2025
-/n
 ![Screenshot](pics/4.png)
 
 20.9.2025 - úkol na manuální testování/psaní test cases a bug reports

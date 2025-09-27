@@ -37,13 +37,3 @@ Různé typy testů podle zaměření
 - Ověření, že tlačítko „Zapomenuté heslo“ v přihlašovací obrazovce odešle e-mail s odkazem na resetování hesla.
 
 - Kontrola, že funkce „Vyhledávání“ vrací očekávané výsledky na základě zadaného klíčového slova.
----
-![[Pasted image 20250916093601.png]]
-
----
-![[Pasted image 20250916093859.png]]
-
----
-![[Pasted image 20250916100651.png]]
-
----

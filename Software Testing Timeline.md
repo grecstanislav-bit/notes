@@ -1,5 +1,6 @@
 
 10.9.2025 - Přihlášení na tříměsíční  kurz Testing akademie od Engeto
+
 ![[8.png]]
 
 ---

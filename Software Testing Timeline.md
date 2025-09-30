@@ -1,7 +1,7 @@
 
 10.9.2025 - Přihlášení na tříměsíční  kurz Testing akademie od Engeto
 
-![[8.png]]
+![Screenshot](pics/8.png)
 
 ---
 15.9.2025 Udemy kurz ✅
@@ -34,4 +34,4 @@ https://docs.google.com/document/d/1jKtUOWlhwEQ_xDEA0w8Fd99j1qaUDy-vEPH2bZLIVLQ
 
 **Aktuálně rozpracované:**
 
-![[11.png]]
+![Screenshot](pics/11.png)

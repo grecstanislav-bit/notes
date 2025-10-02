@@ -3,6 +3,7 @@
 
 --- 
 Engeto Testing akademie
+
 ![Screenshot](pics/8.png)
 
 ---
@@ -12,6 +13,7 @@ Engeto Testing akademie
 
 ---
 Engeto Testing akademie
+
 ![Screenshot](pics/9.png)
 
 ---
@@ -25,6 +27,7 @@ https://docs.google.com/document/d/1jKtUOWlhwEQ_xDEA0w8Fd99j1qaUDy-vEPH2bZLIVLQ
 
 ---
 Engeto Testing akademie
+
 ![Screenshot](pics/10.png)
 
 ---
@@ -34,6 +37,7 @@ Engeto Testing akademie
 
 ---
 Engeto Testing akademie
+
 ![[Pasted image 20251002132739.png]]
 
 ---

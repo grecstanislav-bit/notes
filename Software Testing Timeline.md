@@ -1,6 +1,8 @@
 
 10.9.2025 - Přihlášení na tříměsíční  kurz Testing akademie od Engeto
 
+--- 
+Engeto Testing akademie
 ![Screenshot](pics/8.png)
 
 ---
@@ -9,6 +11,7 @@
 ![Screenshot](pics/4.png)
 
 ---
+Engeto Testing akademie
 ![Screenshot](pics/9.png)
 
 ---
@@ -21,12 +24,20 @@ https://docs.google.com/document/d/1jKtUOWlhwEQ_xDEA0w8Fd99j1qaUDy-vEPH2bZLIVLQ
 ![Screenshot](pics/5.png)
 
 ---
+Engeto Testing akademie
 ![Screenshot](pics/10.png)
 
 ---
 27.9.2025 Udemy kurz ✅
 
 ![Screenshot](pics/7.png)
+
+---
+Engeto Testing akademie
+![[Pasted image 20251002132739.png]]
+
+---
+
 
 ---
 ---

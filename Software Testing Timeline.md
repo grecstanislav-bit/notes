@@ -38,7 +38,7 @@ Engeto Testing akademie
 ---
 Engeto Testing akademie
 
-![[Pasted image 20251002132739.png]]
+![Screenshot](pics/12.png)
 
 ---
 
